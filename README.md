@@ -1,0 +1,2 @@
+# cocokit
+Common Code Kit
